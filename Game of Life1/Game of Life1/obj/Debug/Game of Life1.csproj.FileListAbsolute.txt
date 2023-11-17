@@ -1,0 +1,11 @@
+C:\Users\vchup\source\repos\Game of Life1\Game of Life1\bin\Debug\Game of Life1.exe.config
+C:\Users\vchup\source\repos\Game of Life1\Game of Life1\bin\Debug\Game of Life1.exe
+C:\Users\vchup\source\repos\Game of Life1\Game of Life1\bin\Debug\Game of Life1.pdb
+C:\Users\vchup\source\repos\Game of Life1\Game of Life1\obj\Debug\Game of Life1.csproj.AssemblyReference.cache
+C:\Users\vchup\source\repos\Game of Life1\Game of Life1\obj\Debug\Game of Life1.csproj.SuggestedBindingRedirects.cache
+C:\Users\vchup\source\repos\Game of Life1\Game of Life1\obj\Debug\Game_of_Life1.Form1.resources
+C:\Users\vchup\source\repos\Game of Life1\Game of Life1\obj\Debug\Game_of_Life1.Properties.Resources.resources
+C:\Users\vchup\source\repos\Game of Life1\Game of Life1\obj\Debug\Game of Life1.csproj.GenerateResource.cache
+C:\Users\vchup\source\repos\Game of Life1\Game of Life1\obj\Debug\Game of Life1.csproj.CoreCompileInputs.cache
+C:\Users\vchup\source\repos\Game of Life1\Game of Life1\obj\Debug\Game of Life1.exe
+C:\Users\vchup\source\repos\Game of Life1\Game of Life1\obj\Debug\Game of Life1.pdb
